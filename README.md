@@ -16,10 +16,6 @@ BurnRiSc codebase (`DevRanking.py`, `DataMarking.py`, `Organization.py`, the
 RQ3 activity-profiler script, etc. are separate, related scripts — see
 [Scope of this notebook](#scope-of-this-notebook) below).
 
-## Contents
-
-- `Burnout_Replication_Package.ipynb` — the notebook itself.
-- This README.
 
 ## What it does
 
